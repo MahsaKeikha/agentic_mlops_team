@@ -1,0 +1,1 @@
+{"artifact":"model.tar.gz","build_id":"build-101","tests":"passed","model_version":"1.2.0","registry_status":"registered","environment":"staging","release_strategy":"canary","change_ticket":"CHG-101","monitoring_metrics":["latency","quality"],"alerts":["error budget"],"rollback":"restore 1.1.0","incident_owner":"ML platform on-call"}
